@@ -1,3 +1,5 @@
 # hello-world
-This is an example of repository
-That iss part of an exercise
+
+This is an example of repository.
+This is just an exercise.
+
